@@ -1,1 +1,1 @@
-# git_test
+This is amcannada's first git project!
